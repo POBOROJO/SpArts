@@ -10,7 +10,7 @@ export default {
       colors: {
         grey : "#e5e5dc",
         glass: "rgba(255, 255, 255, 0.45)",
-        trasnparentBlack : "rgba(0, 0, 0, 0.7)",
+        transparentBlack : "rgba(0, 0, 0, 0.7)",
       }
     },
     screens: {

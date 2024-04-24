@@ -7,7 +7,7 @@ export const items=[
         id:1,
         image:r1,
         name:"Product 1",
-        price:1000,
+        price:123,
     },{
         id:2,
         image:r2,
